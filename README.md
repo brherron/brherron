@@ -1,16 +1,30 @@
-### Hi there 👋
+<h2> Hey, I'm Beau. </h2>
+<img align='right' src="https://media.giphy.com/media/l3V0yA9zHe5m29sxW/giphy.gif" width="230">
+<p><em>Software Developer at <a href="https://www.turnkeycorrections.com">Turnkey Corrections</a>
+  
+</em></p>
 
-<!--
-**brherron/brherron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: beauherron_dev](https://img.shields.io/twitter/follow/beauherron_dev?style=social)](https://twitter.com/beaherron_dev)
+[![GitHub: brherron](https://img.shields.io/github/followers/brherron?label=follow&style=social)](https://github.com/brherron)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### More info... <img src="https://media.giphy.com/media/XymDO6RFUWKR519zUD/giphy.gif" width="50">
+
+```javascript
+const beau = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, Sass, Golang],
+  tools: [React, Angular, Node, Bootstrap, Bulma, Styled-Components, Docker, MySQL, AWS Suite, Netlify, Asterisk],
+  design: ["UI/UX", "Logo", "Clothing"],
+  otherHobbies: 
+    {
+      musician: ["Guitar", "Bass Guitar", "Violin (I try)"],
+      photographer: "Sony Alpha Cameras",
+      hardcoreGamer: ["Mario Kart 8", "Runescape"]
+    }
+}
+```
+
+<img src="https://media.giphy.com/media/AKrYFKhCXpOYm834ro/giphy.gif" width="60"> <em><b>Reach out for a collaboration: <a href="mailto:hello@beauherrondev.com" target="_blank" rel="norefferer">hello@beauherrondev.com</a></em>
+
+---
