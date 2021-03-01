@@ -8,6 +8,8 @@
 [![Twitter: beauherron_dev](https://img.shields.io/twitter/follow/beauherron_dev?style=social)](https://twitter.com/beaherron_dev)
 [![GitHub: brherron](https://img.shields.io/github/followers/brherron?label=follow&style=social)](https://github.com/brherron)
 
+</br>
+
 ### More info... <img src="https://media.giphy.com/media/XymDO6RFUWKR519zUD/giphy.gif" width="50">
 
 ```javascript
