@@ -1,12 +1,12 @@
+
+<img align='left' src="https://media.giphy.com/media/l3V0yA9zHe5m29sxW/giphy.gif" width="120">
 <h2> Hey, I'm Beau. </h2>
-<img align='right' src="https://media.giphy.com/media/l3V0yA9zHe5m29sxW/giphy.gif" width="230">
 <p><em>Software Developer at <a href="https://www.turnkeycorrections.com">Turnkey Corrections</a>
   
 </em></p>
 
 [![Twitter: beauherron_dev](https://img.shields.io/twitter/follow/beauherron_dev?style=social)](https://twitter.com/beaherron_dev)
 [![GitHub: brherron](https://img.shields.io/github/followers/brherron?label=follow&style=social)](https://github.com/brherron)
-
 
 ### More info... <img src="https://media.giphy.com/media/XymDO6RFUWKR519zUD/giphy.gif" width="50">
 
