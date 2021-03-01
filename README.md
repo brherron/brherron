@@ -27,6 +27,8 @@ const beau = {
 }
 ```
 
-<img src="https://media.giphy.com/media/AKrYFKhCXpOYm834ro/giphy.gif" width="60"> <em><b>Reach out for a collaboration: <a href="mailto:hello@beauherrondev.com" target="_blank" rel="norefferer">hello@beauherrondev.com</a></em>
+</br>
+<em><b>Reach out for a collaboration: <a href="mailto:hello@beauherrondev.com" target="_blank" rel="norefferer">hello@beauherrondev.com</a> <img src="https://media.giphy.com/media/AKrYFKhCXpOYm834ro/giphy.gif" width="40"></em>
+
 
 ---
