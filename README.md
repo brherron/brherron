@@ -1,5 +1,5 @@
 
-<img align='left' src="https://media.giphy.com/media/l3V0yA9zHe5m29sxW/giphy.gif" width="120">
+<img align='left' src="https://media.giphy.com/media/l3V0yA9zHe5m29sxW/giphy.gif" width="150">
 <h2> Hey, I'm Beau. </h2>
 <p><em>Software Developer at <a href="https://www.turnkeycorrections.com">Turnkey Corrections</a>
   
