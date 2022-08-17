@@ -16,7 +16,7 @@
 const beau = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, Sass, Golang],
-  tools: [React, Angular, Node, Bootstrap, Bulma, Styled-Components, Docker, MySQL, AWS-Suite, Netlify, Asterisk],
+  tools: [React, Next.js, Bootstrap, Tailwind, Styled-Components, Docker, MySQL, AWS-Suite, Netlify, Asterisk],
   design: ["UI/UX", "Logo", "Clothing"],
   otherHobbies: 
     {
