@@ -1,7 +1,7 @@
 
 <img align='left' src="https://media.giphy.com/media/l3V0yA9zHe5m29sxW/giphy.gif" width="150">
 <h2> Hey, I'm Beau. </h2>
-<p><em>Software Developer at <a href="https://www.turnkeycorrections.com">Turnkey Corrections</a>
+<p><em>Software Engineer at <a href="https://www.kiddom.co">Kiddom</a>
   
 </em></p>
 
@@ -15,7 +15,7 @@
 ```javascript
 const beau = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, Sass, Golang],
+  code: [Javascript, Typescript, Golang],
   tools: [React, Next.js, Bootstrap, Tailwind, Styled-Components, Docker, MySQL, AWS-Suite, Netlify, Asterisk],
   design: ["UI/UX", "Logo", "Clothing"],
   otherHobbies: 
